@@ -30,7 +30,7 @@ const Features = () => {
             </div>
 
             <p className="text-gray-500 dark:text-gray-300 text-balance text-center mt-15 px-4 md:text-xl max-w-3xl mx-auto">
-                Whether you're prepping for job interviews, portfolio reviews, or just want to get better, this is the place to start building with purpose.
+  Whether you&apos;re prepping for job interviews, portfolio reviews, or just want to get better, this is the place to start building with purpose.
             </p>
         </section>
     );
